@@ -1,0 +1,12 @@
+{
+    "name": "0xfee1dead/decorator_pattern",
+    "description": "The decorator pattern for remeber that",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "fee1dead\\DecoratorPattern\\": "src/"
+        }
+    },
+    "require": {}
+}
