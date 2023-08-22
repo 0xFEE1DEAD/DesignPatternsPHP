@@ -1,0 +1,12 @@
+{
+    "name": "fee1dead/template-method",
+    "description": "The template method pattern for remeber that",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fee1dead\\TemplateMethod\\": "src/"
+        }
+    },
+    "require": {}
+}
