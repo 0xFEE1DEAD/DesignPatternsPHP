@@ -1,11 +1,10 @@
 <?php
 
-namespace Fee1dead\Adapter;
-
-require_once '../vendor/autoload.php';
+require_once './vendor/autoload.php';
 
 use Fee1dead\Adapter\Appliances\BomboxFromChina;
 use Fee1dead\Adapter\Adapters\ChinesePlugInterfaceAdapterForEuPlugInterface;
+use Fee1dead\Adapter\EuHouse;
 
 
 $house = new EuHouse;

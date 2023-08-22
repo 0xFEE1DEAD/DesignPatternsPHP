@@ -2,7 +2,7 @@
 
 namespace fee1dead\DecoratorPattern;
 
-require_once '../vendor/autoload.php';
+require_once './vendor/autoload.php';
 
 use fee1dead\DecoratorPattern\Services\FloorCleaning;
 use fee1dead\DecoratorPattern\Services\WindowWashing;
