@@ -1,0 +1,11 @@
+{
+    "name": "f1eeldead/chain_of_responsibility",
+    "description": "The chain of responsibility pattern",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "F1eeldead\\ChainOfResponsibility\\": "src/"
+        }
+    },
+    "require": {}
+}
